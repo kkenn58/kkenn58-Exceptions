@@ -23,5 +23,6 @@ public class ExceptionChallenge {
     public void mustThrow() throws Exception{
         throw new Exception("Error");
         
+        
     }
 }
